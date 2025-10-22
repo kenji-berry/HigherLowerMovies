@@ -1,13 +1,24 @@
-# Higher or Lower Movie Rating Web Game
+# Higher/Lower Movie Rating Game
 
-## Overview
+A browser‑based game where players guess which movie has the higher IMDb rating. Built as a **personal learning project to get started with React**, it goes beyond a simple tutorial by adding **local score persistence** and **performance optimisations** to reduce unnecessary API calls and improve responsiveness.  
 
-The **Higher or Lower Movie Rating Web Game** is an interactive web game where users guess which of two movies has a higher IMDb rating. Built with React.js and Tailwind CSS, the game provides a dynamic and engaging user experience.
+Originally hosted at **higherlowermovies.com**, the domain was discontinued due to high renewal costs. The project remains live via its **Vercel deployment** and is fully open‑source on GitHub.  
 
-## Features
+---
 
-- **Interactive Gameplay**: Users select which of two movies has a higher IMDb rating.
-- **Up-to-Date Ratings**: Utilizes the MoviesDatabase API to fetch current and relevant movie ratings.
-- **Custom Deployment**: Hosted on Netlify with a custom domain, optimized for performance and security.
+## 🚀 Tech Stack
+- **Frontend:** React, TailwindCSS, JavaScript  
+- **API:** RapidAPI (Movies Database API)  
+- **Hosting:** Vercel  
 
-[Hosted here](https://higherlowermovies.com/)
+---
+
+## ✨ Features
+- Guess which of two movies has the higher IMDb rating  
+- Local score persistence to track best runs across sessions  
+- Responsive design for desktop and mobile  
+
+---
+
+## 🔗 Links
+- **Live Demo:** [Vercel Deployment](https://higherlowermovies.netlify.app/)  
