@@ -5,6 +5,11 @@ A browser‑based game where players guess which movie has the higher IMDb ratin
 Originally hosted at **higherlowermovies.com**, the domain was discontinued due to high renewal costs. The project remains live via its **Vercel deployment** and is fully open‑source on GitHub.  
 
 ---
+## ✨ Features
+- Guess which of two movies has the higher IMDb rating  
+- Local score persistence to track best runs across sessions  
+- Responsive design for desktop and mobile  
+---
 
 ## 🚀 Tech Stack
 - **Frontend:** React, TailwindCSS, JavaScript  
@@ -12,13 +17,15 @@ Originally hosted at **higherlowermovies.com**, the domain was discontinued due 
 - **Hosting:** Vercel  
 
 ---
+## 📸 Screenshots
+- **Game Screen**  
+  ![Game Screen](screenshots/higherlower.png)
 
-## ✨ Features
-- Guess which of two movies has the higher IMDb rating  
-- Local score persistence to track best runs across sessions  
-- Responsive design for desktop and mobile  
+- **Loss Screen**  
+  ![Loss Screen](screenshots/higherlowerlost.png)
 
----
+
+
 
 ## 🔗 Links
 - **Live Demo:** [Vercel Deployment](https://higherlowermovies.netlify.app/)  
